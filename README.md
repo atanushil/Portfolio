@@ -41,7 +41,7 @@ Feel free to explore each project to learn more about my work.
 
 If you have any questions or would like to connect with me, you can reach me via:
 
-- Email: [atanushil358@gmail.com]
+- Email: atanushil358@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/atanu-shil-13453a24a/" target="_blank">Linked IN</a>
 - Portfolio Website: <a href="https://atanushil.github.io/Portfolio/" target="_blank">Link</a>
 
