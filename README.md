@@ -1,4 +1,4 @@
-Certainly! Below is a template for a README file you can include in your portfolio:
+
 
 ---
 
@@ -49,4 +49,4 @@ I am open to collaboration and new opportunities, so don't hesitate to reach out
 
 ---
 
-Replace the placeholders (Atanu SHil, React.js, Node.js, Express.js, MongoDB etc.) with your actual information. You can also customize the sections and content as needed to better reflect your portfolio and personal brand.
+
